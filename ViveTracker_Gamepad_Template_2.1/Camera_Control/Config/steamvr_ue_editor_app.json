@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vivetracker_gamepad_template-13908680.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Unreal Projects/ViveTracker_Gamepad_Template/Camera_Control/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "ViveTracker_Gamepad_Template-13908680 [UE Editor]"
+				}
+			}
+		}
+	]
+}
